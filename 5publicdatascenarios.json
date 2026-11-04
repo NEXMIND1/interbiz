@@ -1,0 +1,52 @@
+{
+  "scenarios": [
+    {
+      "id": "arancel",
+      "tag": "Cambio regulatorio",
+      "title": "Aumento arancelario del 12%",
+      "text": "El gobierno del país destino anuncia un incremento del 12% en aranceles a la categoría de tu producto. La medida entra en vigencia en 60 días.",
+      "context": "Tienes contratos firmados para los próximos 4 meses. El nuevo arancel reduce tu margen de utilidad en aproximadamente 8 puntos porcentuales.",
+      "options": [
+        {"label": "Renegociar precio con el comprador", "correct": true, "feedback": "Correcto. Es la respuesta estándar cuando el arancel afecta el margen. Mantienes el mercado y compartes el impacto con el comprador. Si el comprador no acepta, al menos abres la conversación antes de perder el contrato."},
+        {"label": "Absorber el costo y esperar", "correct": false, "feedback": "Riesgoso. Absorber 8 puntos de margen por 4 meses puede comprometer tu flujo de caja. Solo es válido si tienes reservas o si esperas que el arancel sea temporal."},
+        {"label": "Buscar un mercado alternativo", "correct": false, "feedback": "Válido a mediano plazo, pero no resuelve el corto plazo. Cambiar de mercado requiere validar requisitos, encontrar compradores y ajustar logística: no ocurre en 60 días."}
+      ]
+    },
+    {
+      "id": "cambiario",
+      "tag": "Riesgo cambiario",
+      "title": "Depreciación del 20% en un trimestre",
+      "text": "La moneda del país destino se deprecia 20% frente al dólar. Tu producto, denominado en USD, se vuelve más caro en moneda local.",
+      "context": "Tus contratos están en USD. El comprador local empieza a presionar por descuentos porque su costo en moneda local aumentó.",
+      "options": [
+        {"label": "Ofrecer un descuento parcial atado a volumen", "correct": true, "feedback": "Buena respuesta. Reconoces el problema del comprador sin regalar margen. Un descuento atado a volumen mantiene tu rentabilidad y le da una salida al comprador."},
+        {"label": "Mantener el precio y esperar", "correct": false, "feedback": "Riesgoso. El comprador tiene incentivos reales para buscar otros proveedores. A menos que tu producto sea insustituible, esta pasividad puede costarte el cliente."},
+        {"label": "Cubrir el riesgo con un forward de divisas", "correct": true, "feedback": "Correcto a nivel financiero. Un forward te permite fijar el tipo de cambio y estabilizar tu ingreso en USD. Combínalo con la primera opción."}
+      ]
+    },
+    {
+      "id": "logistico",
+      "tag": "Disrupción logística",
+      "title": "Cierre temporal de la ruta principal",
+      "text": "Una huelga portuaria o un evento geopolítico cierra temporalmente tu ruta logística principal. El tiempo de tránsito se duplica.",
+      "context": "Tienes un cargamento en tránsito y otro programado para las próximas 2 semanas. El producto tiene vida útil limitada.",
+      "options": [
+        {"label": "Activar ruta alterna y comunicar al comprador", "correct": true, "feedback": "Correcto. La transparencia con el comprador es clave, y una ruta alterna —aunque más costosa— preserva la relación y el producto."},
+        {"label": "Esperar a que se reabra la ruta", "correct": false, "feedback": "Riesgoso si el producto es perecedero. La espera puede costarte el cargamento completo. Solo es válido si el producto es no perecedero y el comprador acepta el retraso."},
+        {"label": "Desviar el cargamento a un mercado alternativo", "correct": false, "feedback": "Válido como plan B, pero requiere que el producto ya cumpla requisitos del mercado alternativo. Improvisar no funciona."}
+      ]
+    },
+    {
+      "id": "esg",
+      "tag": "Reputación / ESG",
+      "title": "Cuestionamiento público de trazabilidad",
+      "text": "Un medio internacional publica un informe cuestionando las prácticas ambientales en la cadena de suministro de tu sector en Colombia.",
+      "context": "Un cliente clave te pide explicaciones públicas. Tienes 2 semanas para responder antes de que evalúe continuar la relación.",
+      "options": [
+        {"label": "Publicar evidencia de trazabilidad y certificaciones", "correct": true, "feedback": "Correcto. La respuesta a un cuestionamiento reputacional es evidencia, no silencio. Muestra certificaciones, auditorías y datos verificables de tu cadena."},
+        {"label": "Emitir un comunicado genérico defendiendo el sector", "correct": false, "feedback": "Débil. Los comunicados genéricos no resuelven cuestionamientos específicos. El cliente quiere evidencia, no retórica."},
+        {"label": "Iniciar una auditoría externa y comunicar el proceso", "correct": true, "feedback": "Buena respuesta. Una auditoría externa independiente es la señal más fuerte de compromiso. Complementa con evidencia existente."}
+      ]
+    }
+  ]
+}
