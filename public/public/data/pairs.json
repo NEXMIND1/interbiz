@@ -1,0 +1,385 @@
+{
+  "pairs": [
+    {
+      "id": "cafe_usa",
+      "productId": "cafe",
+      "destinationId": "usa",
+      "score": 94,
+      "summary": "Mayor importador mundial de café. Alta familiaridad con el origen Colombia.",
+      "demand": "1.6 M toneladas/año de café importado. Consumo per cápita ≈ 4.5 kg. El segmento specialty crece 8–12% anual.",
+      "why": "Es el mayor importador de café del mundo y tiene la diáspora colombiana más grande. El TLC Colombia–EE.UU. deja el arancel en 0% para café verde y tostado. Alta madurez del canal specialty.",
+      "requirements": {
+        "sanitary": "Registro de instalación ante FDA (Food Facility Registration). Cumplimiento FSMA — el importador debe operar bajo FSVP. Certificado fitosanitario ICA para el lote.",
+        "labeling": "Etiquetado FDA en inglés. Declaración de alérgenos si aplica. Código de lote y país de origen visibles.",
+        "certifications": ["USDA Organic", "Fair Trade", "Rainforest Alliance", "Direct Trade"],
+        "tariff": "0% bajo el TLC Colombia–EE.UU. (Ley 1143 de 2007).",
+        "tariffRate": 0
+      },
+      "entryModes": ["Exportación directa a importadores specialty", "Alianza con tostadores regionales", "Distribución vía broker especializado"],
+      "volume": "Lotes de 1–10 contenedores de 19.200 kg (café verde). Nicho specialty: 20–50 sacos de 70 kg por embarque.",
+      "contacts": [
+        {"name": "ProColombia · Nueva York", "url": "https://www.procolombia.co"},
+        {"name": "Specialty Coffee Association", "url": "https://sca.coffee"},
+        {"name": "Green Coffee Association", "url": "https://www.greencoffeeassociation.org"},
+        {"name": "FNC · Oficina EE.UU.", "url": "https://federaciondecafeteros.org"}
+      ],
+      "tradeMapUrl": "https://www.trademap.org/en/goods/time-series/exports/c/170/c/842/p/0901/byProduct",
+      "lastReviewedAt": "2025-01-15",
+      "reviewedBy": "equipo@interbiz.co"
+    },
+    {
+      "id": "cafe_alemania",
+      "productId": "cafe",
+      "destinationId": "alemania",
+      "score": 88,
+      "summary": "Mayor consumidor europeo de café. Exigente en sostenibilidad y trazabilidad.",
+      "demand": "≈ 500.000 t/año de café importado. Segundo importador mundial. Fuerte cultura de café de especialidad y consumo en canal HORECA.",
+      "why": "Es el mayor consumidor de café de Europa y un hub de reexportación. La proximidad cultural con el café colombiano y la exigencia de trazabilidad juegan a favor de productores con certificaciones.",
+      "requirements": {
+        "sanitary": "Cumplimiento de la normativa UE de seguridad alimentaria (Reg. 178/2002). Registro del establecimiento exportador. Certificado fitosanitario ICA. El importador debe estar registrado en la UE.",
+        "labeling": "Reglamento (UE) 1169/2011 — etiquetado en idioma del país. Alérgenos destacados. País de origen e información nutricional.",
+        "certifications": ["EU Organic", "Fairtrade", "Rainforest Alliance", "UTZ"],
+        "tariff": "0% bajo el Acuerdo Comercial UE–Colombia (desde 2013).",
+        "tariffRate": 0
+      },
+      "entryModes": ["Exportación directa a tostadores", "Alianza con importadores especializados", "Participación en ferias (World of Coffee)"],
+      "volume": "Contenedores de 20–40 pies con café verde. Nicho specialty: 5–20 sacos por referencia.",
+      "contacts": [
+        {"name": "ProColombia · Frankfurt", "url": "https://www.procolombia.co"},
+        {"name": "German Coffee Association", "url": "https://www.kaffeeverband.de"},
+        {"name": "Specialty Coffee Association Europe", "url": "https://sca.coffee"}
+      ],
+      "tradeMapUrl": "https://www.trademap.org/en/goods/time-series/exports/c/170/c/276/p/0901/byProduct",
+      "lastReviewedAt": "2025-01-15",
+      "reviewedBy": "equipo@interbiz.co"
+    },
+    {
+      "id": "cafe_japon",
+      "productId": "cafe",
+      "destinationId": "japon",
+      "score": 82,
+      "summary": "Mercado premium con consumidores dispuestos a pagar por origen y calidad.",
+      "demand": "≈ 430.000 t/año. Consumo per cápita ≈ 3.4 kg. Fuerte cultura de café enlatado y de specialty (kissaten).",
+      "why": "El consumidor japonés paga primas significativas por café de origen único, procesos específicos (honey, natural) y marcas con historia. Es un mercado de nicho pero altamente rentable.",
+      "requirements": {
+        "sanitary": "Registro ante el Ministerio de Salud, Trabajo y Bienestar (MHLW). Cumplimiento de la Ley de Sanidad Alimentaria. Certificado fitosanitario ICA.",
+        "labeling": "Etiquetado en japonés (Ley JAS). Alérgenos obligatorios. Información nutricional. País de origen.",
+        "certifications": ["JAS Organic", "Fair Trade", "Rainforest Alliance"],
+        "tariff": "0% bajo el Acuerdo de Asociación Económica (EPA) Colombia–Japón (desde 2015).",
+        "tariffRate": 0
+      },
+      "entryModes": ["Exportación directa a tostadores specialty", "Distribución vía importador especializado", "Participación en SCAJ (Tokyo)"],
+      "volume": "Lotes pequeños de 5–30 sacos para nichos premium. Cafés de especialidad: 1–5 sacos por referencia.",
+      "contacts": [
+        {"name": "ProColombia · Tokio", "url": "https://www.procolombia.co"},
+        {"name": "SCAJ · Specialty Coffee Association of Japan", "url": "https://scaj.or.jp"}
+      ],
+      "tradeMapUrl": "https://www.trademap.org/en/goods/time-series/exports/c/170/c/392/p/0901/byProduct",
+      "lastReviewedAt": "2025-01-15",
+      "reviewedBy": "equipo@interbiz.co"
+    },
+    {
+      "id": "cafe_canada",
+      "productId": "cafe",
+      "destinationId": "canada",
+      "score": 79,
+      "summary": "Mercado estable con alta sofisticación y buena disposición a pagar por origen.",
+      "demand": "≈ 200.000 t/año. Consumo per cápita ≈ 5.3 kg. Alta penetración de café de especialidad en Toronto, Vancouver y Montreal.",
+      "why": "Canadá combina estabilidad regulatoria con un consumidor educado en café de especialidad. El TLC Colombia–Canadá permite arancel 0%. El mercado es más pequeño que EE.UU. pero menos saturado.",
+      "requirements": {
+        "sanitary": "Registro ante Canadian Food Inspection Agency (CFIA). Cumplimiento Safe Food for Canadians Regulations (SFCR). Certificado fitosanitario ICA.",
+        "labeling": "Etiquetado bilingüe (inglés y francés). Alérgenos destacados. Información nutricional. País de origen.",
+        "certifications": ["Canada Organic", "Fair Trade", "Rainforest Alliance"],
+        "tariff": "0% bajo el TLC Colombia–Canadá (desde 2011).",
+        "tariffRate": 0
+      },
+      "entryModes": ["Exportación directa a importadores specialty", "Alianza con tostadores locales", "Distribución vía distribuidores HORECA"],
+      "volume": "Lotes de 1–5 contenedores. Nicho specialty: 10–40 sacos por embarque.",
+      "contacts": [
+        {"name": "ProColombia · Toronto", "url": "https://www.procolombia.co"},
+        {"name": "Coffee Association of Canada", "url": "https://coffeeassoc.com"}
+      ],
+      "tradeMapUrl": "https://www.trademap.org/en/goods/time-series/exports/c/170/c/124/p/0901/byProduct",
+      "lastReviewedAt": "2025-01-15",
+      "reviewedBy": "equipo@interbiz.co"
+    },
+    {
+      "id": "cafe_corea",
+      "productId": "cafe",
+      "destinationId": "corea",
+      "score": 76,
+      "summary": "Mercado asiático en crecimiento con cultura cafetera joven y dinámica.",
+      "demand": "≈ 180.000 t/año. Consumo per cápita ≈ 3.5 kg. Alta densidad de cafeterías specialty (Seúl).",
+      "why": "El café de especialidad explotó en Corea en la última década. El consumidor joven está dispuesto a pagar por origen y experiencia. El TLC Colombia–Corea del Sur eliminó aranceles desde 2016.",
+      "requirements": {
+        "sanitary": "Registro ante Ministry of Food and Drug Safety (MFDS). Cumplimiento de la Food Sanitation Act. Certificado fitosanitario ICA.",
+        "labeling": "Etiquetado en coreano. Alérgenos destacados. Información nutricional. País de origen.",
+        "certifications": ["Organic (Korea)", "Fair Trade", "Rainforest Alliance"],
+        "tariff": "0% bajo el TLC Colombia–Corea del Sur (desde 2016).",
+        "tariffRate": 0
+      },
+      "entryModes": ["Exportación directa a tostadores specialty", "Alianza con importadores locales", "Participación en Seoul Cafe Show"],
+      "volume": "Lotes de 5–20 sacos por referencia. Nicho premium de origen único.",
+      "contacts": [
+        {"name": "ProColombia · Seúl", "url": "https://www.procolombia.co"},
+        {"name": "Korea Coffee Industry Association", "url": "https://www.coffee.or.kr"}
+      ],
+      "tradeMapUrl": "https://www.trademap.org/en/goods/time-series/exports/c/170/c/410/p/0901/byProduct",
+      "lastReviewedAt": "2025-01-15",
+      "reviewedBy": "equipo@interbiz.co"
+    },
+    {
+      "id": "aguacate_nld",
+      "productId": "aguacate",
+      "destinationId": "nld",
+      "score": 92,
+      "summary": "Hub logístico de Europa. Puerta de entrada a la UE vía Róterdam.",
+      "demand": "≈ 80.000 t/año de aguacate importado. Centro de distribución para toda la UE, incluyendo reexportación a Alemania, Francia y Escandinavia.",
+      "why": "Róterdam es el principal puerto de entrada de aguacate a Europa. Los importadores holandeses distribuyen a toda la UE. Excelente infraestructura de frío y trazabilidad. Apertura del mercado UE en 2017.",
+      "requirements": {
+        "sanitary": "Registro del establecimiento ante la UE. Cumplimiento de la normativa fitosanitaria europea. Certificado fitosanitario ICA. El importador debe estar registrado en el EU TRACES.",
+        "labeling": "Etiquetado UE 1169/2011. País de origen obligatorio. Código de trazabilidad. Alérgenos si aplica.",
+        "certifications": ["GlobalG.A.P.", "Rainforest Alliance", "EU Organic"],
+        "tariff": "0% bajo el Acuerdo Comercial UE–Colombia (desde 2013).",
+        "tariffRate": 0
+      },
+      "entryModes": ["Exportación directa a importadores holandeses", "Alianza con distribuidores UE", "Distribución vía plataformas logísticas"],
+      "volume": "Contenedores reefer de 20–40 pies. Lotes de 1–10 contenedores por embarque. Nicho: 5–15 pallets.",
+      "contacts": [
+        {"name": "ProColombia · Ámsterdam", "url": "https://www.procolombia.co"},
+        {"name": "Fresh Produce Centre", "url": "https://www.freshproducecentre.nl"},
+        {"name": "Dutch Produce Association", "url": "https://www.dpa.nl"}
+      ],
+      "tradeMapUrl": "https://www.trademap.org/en/goods/time-series/exports/c/170/c/528/p/080440/byProduct",
+      "lastReviewedAt": "2025-01-15",
+      "reviewedBy": "equipo@interbiz.co"
+    },
+    {
+      "id": "aguacate_usa",
+      "productId": "aguacate",
+      "destinationId": "usa",
+      "score": 88,
+      "summary": "Mayor consumidor mundial. Mercado abierto desde 2022.",
+      "demand": "≈ 1.3 M t/año de aguacate importado. Consumo per cápita ≈ 3.5 kg. Fuerte crecimiento en el segmento retail y foodservice.",
+      "why": "Estados Unidos es el mayor consumidor de aguacate del mundo. La apertura del mercado en 2022 permitió el acceso de aguacate Hass colombiano. El TLC deja arancel en 0%.",
+      "requirements": {
+        "sanitary": "Registro ante FDA. Cumplimiento FSMA (FSVP). Certificado fitosanitario ICA. USDA APHIS requiere inspección previa del huerto.",
+        "labeling": "Etiquetado FDA en inglés. País de origen. Alérgenos si aplica. Código de lote.",
+        "certifications": ["USDA Organic", "GlobalG.A.P.", "Fair Trade"],
+        "tariff": "0% bajo el TLC Colombia–EE.UU.",
+        "tariffRate": 0
+      },
+      "entryModes": ["Exportación directa a importadores", "Alianza con distribuidores regionales", "Venta directa a retail (Costco, Whole Foods)"],
+      "volume": "Contenedores reefer de 40 pies. Lotes de 1–15 contenedores por embarque. Nicho: 5–20 pallets.",
+      "contacts": [
+        {"name": "ProColombia · EE.UU.", "url": "https://www.procolombia.co"},
+        {"name": "Hass Avocado Board", "url": "https://hassavocadoboard.com"},
+        {"name": "USDA APHIS", "url": "https://www.aphis.usda.gov"}
+      ],
+      "tradeMapUrl": "https://www.trademap.org/en/goods/time-series/exports/c/170/c/842/p/080440/byProduct",
+      "lastReviewedAt": "2025-01-15",
+      "reviewedBy": "equipo@interbiz.co"
+    },
+    {
+      "id": "aguacate_esp",
+      "productId": "aguacate",
+      "destinationId": "esp",
+      "score": 74,
+      "summary": "Mercado con producción local pero alta demanda y afinidad cultural.",
+      "demand": "≈ 130.000 t/año de aguacate importado. España es productor local (Málaga, Canarias) pero la demanda supera la oferta.",
+      "why": "España tiene producción propia pero importa aguacate de Perú, Chile y Colombia para cubrir la demanda fuera de temporada. La afinidad cultural e idiomática facilita la relación comercial.",
+      "requirements": {
+        "sanitary": "Registro del establecimiento ante la UE. Cumplimiento normativa fitosanitaria europea. Certificado fitosanitario ICA.",
+        "labeling": "Etiquetado UE 1169/2011 en español. País de origen. Alérgenos si aplica.",
+        "certifications": ["GlobalG.A.P.", "EU Organic"],
+        "tariff": "0% bajo el Acuerdo Comercial UE–Colombia.",
+        "tariffRate": 0
+      },
+      "entryModes": ["Exportación directa a importadores españoles", "Alianza con distribuidores HORECA", "Venta a cadenas retail"],
+      "volume": "Contenedores reefer de 40 pies. Lotes de 1–8 contenedores por embarque.",
+      "contacts": [
+        {"name": "ProColombia · Madrid", "url": "https://www.procolombia.co"},
+        {"name": "FEPEX · Federación Española de Asociaciones de Productores Exportadores", "url": "https://www.fepex.es"}
+      ],
+      "tradeMapUrl": "https://www.trademap.org/en/goods/time-series/exports/c/170/c/724/p/080440/byProduct",
+      "lastReviewedAt": "2025-01-15",
+      "reviewedBy": "equipo@interbiz.co"
+    },
+    {
+      "id": "aguacate_gbr",
+      "productId": "aguacate",
+      "destinationId": "gbr",
+      "score": 81,
+      "summary": "Mercado premium con alta disposición a pagar por sostenibilidad.",
+      "demand": "≈ 60.000 t/año. Consumo per cápita ≈ 0.9 kg. Fuerte crecimiento en el canal retail y foodservice.",
+      "why": "El Reino Unido paga primas significativas por aguacate con certificaciones de sostenibilidad. Post-Brexit, el Reino Unido negocia sus propios acuerdos, y Colombia mantiene acceso preferencial vía el Acuerdo de Continuidad.",
+      "requirements": {
+        "sanitary": "Registro ante Food Standards Agency (FSA). Cumplimiento de la normativa británica equivalente a la UE. Certificado fitosanitario ICA.",
+        "labeling": "Etiquetado en inglés. País de origen. Alérgenos destacados. Información nutricional.",
+        "certifications": ["GlobalG.A.P.", "Rainforest Alliance", "UK Organic"],
+        "tariff": "Arancel preferencial bajo el UK–Andean Agreement (continuidad post-Brexit).",
+        "tariffRate": 0
+      },
+      "entryModes": ["Exportación directa a importadores británicos", "Alianza con distribuidores premium", "Venta a retail (Tesco, Waitrose)"],
+      "volume": "Contenedores reefer de 40 pies. Lotes de 1–6 contenedores por embarque.",
+      "contacts": [
+        {"name": "ProColombia · Londres", "url": "https://www.procolombia.co"},
+        {"name": "Fresh Produce Consortium", "url": "https://www.freshproduce.org.uk"}
+      ],
+      "tradeMapUrl": "https://www.trademap.org/en/goods/time-series/exports/c/170/c/826/p/080440/byProduct",
+      "lastReviewedAt": "2025-01-15",
+      "reviewedBy": "equipo@interbiz.co"
+    },
+    {
+      "id": "aguacate_japon",
+      "productId": "aguacate",
+      "destinationId": "japon",
+      "score": 68,
+      "summary": "Mercado de nicho, alto poder adquisitivo, exigente en calidad.",
+      "demand": "≈ 10.000 t/año. Consumo per cápita ≈ 0.08 kg. Mercado en desarrollo con fuerte crecimiento en foodservice y retail premium.",
+      "why": "Japón paga primas altas por aguacate premium, pero las exigencias sanitarias y de presentación son estrictas. Es un mercado de nicho con márgenes atractivos para producto certificado.",
+      "requirements": {
+        "sanitary": "Registro ante MHLW. Cumplimiento de la Ley de Sanidad Alimentaria. Certificado fitosanitario ICA. Requisito específico de tratamiento de frío.",
+        "labeling": "Etiquetado en japonés (Ley JAS). País de origen. Alérgenos destacados.",
+        "certifications": ["GlobalG.A.P.", "JAS Organic"],
+        "tariff": "Arancel preferencial bajo el EPA Colombia–Japón.",
+        "tariffRate": 0
+      },
+      "entryModes": ["Exportación directa a importadores premium", "Alianza con distribuidores especializados", "Venta a retail premium"],
+      "volume": "Lotes pequeños de 1–3 contenedores reefer. Nicho: 5–15 pallets.",
+      "contacts": [
+        {"name": "ProColombia · Tokio", "url": "https://www.procolombia.co"},
+        {"name": "Japan Fruit Foundation", "url": "https://www.kajun.or.jp"}
+      ],
+      "tradeMapUrl": "https://www.trademap.org/en/goods/time-series/exports/c/170/c/392/p/080440/byProduct",
+      "lastReviewedAt": "2025-01-15",
+      "reviewedBy": "equipo@interbiz.co"
+    },
+    {
+      "id": "mango_usa",
+      "productId": "mango",
+      "destinationId": "usa",
+      "score": 91,
+      "summary": "Mayor importador de mango del mundo. Consumo creciente, mercado abierto.",
+      "demand": "≈ 600.000 t/año de mango importado. Consumo per cápita ≈ 1.8 kg. Crecimiento sostenido en el canal retail y foodservice.",
+      "why": "Estados Unidos es el mayor importador mundial de mango, con alta demanda en retail y foodservice. El TLC Colombia–EE.UU. deja arancel 0%. La diáspora latina refuerza la familiaridad con el producto.",
+      "requirements": {
+        "sanitary": "Registro ante FDA. Cumplimiento FSMA (FSVP). Certificado fitosanitario ICA. USDA APHIS requiere inspección previa del huerto y tratamiento hidrotérmico.",
+        "labeling": "Etiquetado FDA en inglés. País de origen. Alérgenos si aplica. Código de lote.",
+        "certifications": ["USDA Organic", "GlobalG.A.P.", "Fair Trade"],
+        "tariff": "0% bajo el TLC Colombia–EE.UU.",
+        "tariffRate": 0
+      },
+      "entryModes": ["Exportación directa a importadores", "Alianza con distribuidores regionales", "Venta a cadenas retail"],
+      "volume": "Contenedores reefer de 40 pies. Lotes de 1–10 contenedores por embarque.",
+      "contacts": [
+        {"name": "ProColombia · EE.UU.", "url": "https://www.procolombia.co"},
+        {"name": "National Mango Board", "url": "https://www.mango.org"},
+        {"name": "USDA APHIS", "url": "https://www.aphis.usda.gov"}
+      ],
+      "tradeMapUrl": "https://www.trademap.org/en/goods/time-series/exports/c/170/c/842/p/080450/byProduct",
+      "lastReviewedAt": "2025-01-15",
+      "reviewedBy": "equipo@interbiz.co"
+    },
+    {
+      "id": "mango_nld",
+      "productId": "mango",
+      "destinationId": "nld",
+      "score": 85,
+      "summary": "Hub logístico de Europa para mango y otras frutas tropicales.",
+      "demand": "≈ 90.000 t/año. Centro de distribución para toda la UE. Reexportación a Alemania, Francia y Escandinavia.",
+      "why": "Róterdam concentra la entrada de mango a Europa. Los importadores holandeses distribuyen a toda la UE. Excelente infraestructura de frío y trazabilidad.",
+      "requirements": {
+        "sanitary": "Registro del establecimiento ante la UE. Cumplimiento normativa fitosanitaria europea. Certificado fitosanitario ICA.",
+        "labeling": "Etiquetado UE 1169/2011. País de origen obligatorio. Código de trazabilidad.",
+        "certifications": ["GlobalG.A.P.", "Rainforest Alliance", "EU Organic"],
+        "tariff": "0% bajo el Acuerdo Comercial UE–Colombia.",
+        "tariffRate": 0
+      },
+      "entryModes": ["Exportación directa a importadores holandeses", "Alianza con distribuidores UE", "Distribución vía plataformas logísticas"],
+      "volume": "Contenedores reefer de 40 pies. Lotes de 1–8 contenedores por embarque.",
+      "contacts": [
+        {"name": "ProColombia · Ámsterdam", "url": "https://www.procolombia.co"},
+        {"name": "Fresh Produce Centre", "url": "https://www.freshproducecentre.nl"}
+      ],
+      "tradeMapUrl": "https://www.trademap.org/en/goods/time-series/exports/c/170/c/528/p/080450/byProduct",
+      "lastReviewedAt": "2025-01-15",
+      "reviewedBy": "equipo@interbiz.co"
+    },
+    {
+      "id": "mango_canada",
+      "productId": "mango",
+      "destinationId": "canada",
+      "score": 78,
+      "summary": "Mercado estable con alta sofisticación y buena disposición a pagar por origen.",
+      "demand": "≈ 40.000 t/año. Consumo per cápita ≈ 1.1 kg. Alta penetración de mango en retail y foodservice.",
+      "why": "Canadá combina estabilidad regulatoria con un consumidor educado en frutas tropicales. El TLC Colombia–Canadá permite arancel 0%.",
+      "requirements": {
+        "sanitary": "Registro ante CFIA. Cumplimiento SFCR. Certificado fitosanitario ICA.",
+        "labeling": "Etiquetado bilingüe (inglés y francés). País de origen. Alérgenos si aplica.",
+        "certifications": ["Canada Organic", "GlobalG.A.P.", "Fair Trade"],
+        "tariff": "0% bajo el TLC Colombia–Canadá.",
+        "tariffRate": 0
+      },
+      "entryModes": ["Exportación directa a importadores", "Alianza con distribuidores HORECA", "Venta a retail"],
+      "volume": "Contenedores reefer de 40 pies. Lotes de 1–5 contenedores por embarque.",
+      "contacts": [
+        {"name": "ProColombia · Toronto", "url": "https://www.procolombia.co"},
+        {"name": "Canadian Produce Marketing Association", "url": "https://www.cpma.ca"}
+      ],
+      "tradeMapUrl": "https://www.trademap.org/en/goods/time-series/exports/c/170/c/124/p/080450/byProduct",
+      "lastReviewedAt": "2025-01-15",
+      "reviewedBy": "equipo@interbiz.co"
+    },
+    {
+      "id": "mango_are",
+      "productId": "mango",
+      "destinationId": "are",
+      "score": 73,
+      "summary": "Hub logístico de Oriente Medio. Alta demanda de frutas tropicales.",
+      "demand": "≈ 50.000 t/año. Centro de reexportación a Medio Oriente, África del Este y Asia del Sur. Alta demanda por fruta fresca.",
+      "why": "Emiratos Árabes Unidos es un hub logístico clave para Medio Oriente y África. Alta demanda de fruta tropical por parte de la diáspora asiática y de consumidores de alto poder adquisitivo.",
+      "requirements": {
+        "sanitary": "Registro ante el Ministerio de Cambio Climático y Medio Ambiente (MOCCAE). Cumplimiento de la normativa de inocuidad alimentaria. Certificado fitosanitario ICA. Certificado halal si aplica.",
+        "labeling": "Etiquetado en árabe e inglés. País de origen. Fecha de vencimiento.",
+        "certifications": ["GlobalG.A.P.", "Halal", "ISO 22000"],
+        "tariff": "Arancel preferencial bajo el CEPA Colombia–EAU (en negociación).",
+        "tariffRate": 0
+      },
+      "entryModes": ["Exportación directa a importadores", "Alianza con distribuidores de la región", "Venta a cadenas retail (Carrefour, Lulu)"],
+      "volume": "Contenedores reefer de 40 pies. Lotes de 1–6 contenedores por embarque.",
+      "contacts": [
+        {"name": "ProColombia · Dubái", "url": "https://www.procolombia.co"},
+        {"name": "Dubai Municipality · Food Safety", "url": "https://www.dm.gov.ae"}
+      ],
+      "tradeMapUrl": "https://www.trademap.org/en/goods/time-series/exports/c/170/c/784/p/080450/byProduct",
+      "lastReviewedAt": "2025-01-15",
+      "reviewedBy": "equipo@interbiz.co"
+    },
+    {
+      "id": "mango_gbr",
+      "productId": "mango",
+      "destinationId": "gbr",
+      "score": 76,
+      "summary": "Mercado premium con alta disposición a pagar por sostenibilidad.",
+      "demand": "≈ 25.000 t/año. Consumo per cápita ≈ 0.4 kg. Fuerte crecimiento en retail y foodservice.",
+      "why": "El Reino Unido paga primas por mango con certificaciones de sostenibilidad. Post-Brexit, Colombia mantiene acceso preferencial vía el Acuerdo de Continuidad.",
+      "requirements": {
+        "sanitary": "Registro ante FSA. Cumplimiento normativa británica. Certificado fitosanitario ICA.",
+        "labeling": "Etiquetado en inglés. País de origen. Alérgenos destacados.",
+        "certifications": ["GlobalG.A.P.", "Rainforest Alliance", "UK Organic"],
+        "tariff": "Arancel preferencial bajo el UK–Andean Agreement.",
+        "tariffRate": 0
+      },
+      "entryModes": ["Exportación directa a importadores británicos", "Alianza con distribuidores premium", "Venta a retail (Tesco, Waitrose)"],
+      "volume": "Contenedores reefer de 40 pies. Lotes de 1–4 contenedores por embarque.",
+      "contacts": [
+        {"name": "ProColombia · Londres", "url": "https://www.procolombia.co"},
+        {"name": "Fresh Produce Consortium", "url": "https://www.freshproduce.org.uk"}
+      ],
+      "tradeMapUrl": "https://www.trademap.org/en/goods/time-series/exports/c/170/c/826/p/080450/byProduct",
+      "lastReviewedAt": "2025-01-15",
+      "reviewedBy": "equipo@interbiz.co"
+    }
+  ]
+}
